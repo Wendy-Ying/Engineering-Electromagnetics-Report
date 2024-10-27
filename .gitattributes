@@ -1,2 +1,1 @@
-*.cs linguist-language=MATLAB
-*.ico linguist-language=MATLAB
+*.mlx linguist-language=MATLAB
